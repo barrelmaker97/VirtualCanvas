@@ -5,7 +5,7 @@ using Vuforia;
 
 public class VuforiaStart : MonoBehaviour {
 
-    private void Awake()
+    private void Start()
     {
         VuforiaRuntime.Instance.InitVuforia();
     }
