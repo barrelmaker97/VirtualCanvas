@@ -44,8 +44,10 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+    - VirtualCanvas_OT
     - VirtualCanvas
     dataSetsToActivate:
+    - VirtualCanvas_OT
     - VirtualCanvas
   videoBackground:
     clippingMode: 0

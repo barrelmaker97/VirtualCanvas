@@ -571,7 +571,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 80cac58417ead501
+  metroCertificateNotAfter: 804f7d5205f2d501
   metroApplicationDescription: Hololens Virtual Canvas
   wsaImages: {}
   metroTileShortName: Hololens Virtual Canvas
