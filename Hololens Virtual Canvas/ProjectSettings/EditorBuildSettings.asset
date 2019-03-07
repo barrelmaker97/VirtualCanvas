@@ -17,3 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Model Tracking.unity
     guid: 4a7973b3cf96c414b8568cbf45ae36b6
+  - enabled: 1
+    path: Assets/Scenes/Video Test.unity
+    guid: f174b308d0f1efa4992ebc9b9f3ee33b
