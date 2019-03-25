@@ -443,7 +443,7 @@ MonoBehaviour:
   m_Script: {fileID: -780924145, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mTrackableName: Reticle
+  mTrackableName: ReticleIDEX
   mPreserveChildSize: 0
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/VirtualCanvas_OT.xml
@@ -453,7 +453,7 @@ MonoBehaviour:
   mShowBoundingBox: 1
   mBBoxMin: {x: 0, y: 0, z: 0}
   mBBoxMax: {x: 0.1, y: 0.1, z: 0.1}
-  mPreviewImage: {fileID: 2800000, guid: 20cdb591bc3a48a0837e2d67b65c0326, type: 3}
+  mPreviewImage: {fileID: 2800000, guid: 5f6891d5a3d84bbdab2fb07fa5486c85, type: 3}
   mLength: 0.1
   mWidth: 0.1
   mHeight: 0.1
