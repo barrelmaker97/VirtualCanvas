@@ -9,15 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Main.unity
     guid: b264462df7a239147abaec770fc6fd1b
   - enabled: 1
-    path: Assets/Scenes/Image Tracking.unity
-    guid: 30b802131f10f70488f9ecc317dcd236
-  - enabled: 1
-    path: Assets/Scenes/Scan Tracking.unity
-    guid: c455ca5d4804e6e4b9c067890fa1b715
-  - enabled: 1
-    path: Assets/Scenes/Model Tracking.unity
-    guid: 4a7973b3cf96c414b8568cbf45ae36b6
-  - enabled: 1
     path: Assets/Scenes/Video Test.unity
     guid: f174b308d0f1efa4992ebc9b9f3ee33b
   - enabled: 1

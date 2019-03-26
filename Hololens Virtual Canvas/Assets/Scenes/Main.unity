@@ -221,7 +221,7 @@ Prefab:
     - target: {fileID: 114090833712540216, guid: f864a0eb32f676540a81133e25d0a304,
         type: 2}
       propertyPath: sceneDescription
-      value: Video Test
+      value: ???
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f864a0eb32f676540a81133e25d0a304, type: 2}
@@ -283,7 +283,7 @@ Prefab:
     - target: {fileID: 114090833712540216, guid: f864a0eb32f676540a81133e25d0a304,
         type: 2}
       propertyPath: sceneDescription
-      value: Image Tracking
+      value: Video Test
       objectReference: {fileID: 0}
     - target: {fileID: 1238892080640220, guid: f864a0eb32f676540a81133e25d0a304, type: 2}
       propertyPath: m_Name
@@ -550,7 +550,7 @@ Prefab:
     - target: {fileID: 114090833712540216, guid: f864a0eb32f676540a81133e25d0a304,
         type: 2}
       propertyPath: sceneDescription
-      value: Canvas Scaling
+      value: ???
       objectReference: {fileID: 0}
     - target: {fileID: 114090833712540216, guid: f864a0eb32f676540a81133e25d0a304,
         type: 2}
@@ -626,7 +626,7 @@ Prefab:
     - target: {fileID: 114090833712540216, guid: f864a0eb32f676540a81133e25d0a304,
         type: 2}
       propertyPath: sceneDescription
-      value: Model Tracking
+      value: ???
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f864a0eb32f676540a81133e25d0a304, type: 2}
@@ -862,7 +862,7 @@ Prefab:
     - target: {fileID: 114090833712540216, guid: f864a0eb32f676540a81133e25d0a304,
         type: 2}
       propertyPath: sceneDescription
-      value: Scan Tracking
+      value: Canvas Scaling
       objectReference: {fileID: 0}
     - target: {fileID: 114620243254343258, guid: f864a0eb32f676540a81133e25d0a304,
         type: 2}
