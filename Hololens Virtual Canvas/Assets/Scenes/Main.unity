@@ -626,7 +626,7 @@ Prefab:
     - target: {fileID: 114090833712540216, guid: f864a0eb32f676540a81133e25d0a304,
         type: 2}
       propertyPath: sceneDescription
-      value: ???
+      value: Reticle Testing
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f864a0eb32f676540a81133e25d0a304, type: 2}

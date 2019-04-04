@@ -15,9 +15,9 @@ MonoBehaviour:
     vuforiaLicenseKey: AW/Jh8X/////AAAAGfDxDZXMpkHkqdUDrcrS02w7IBfQiAsTwzKEnCDvQzRmymrDRnhOKPJHA1VR5DraipnFxQMPXy5CzIWXsgKi/IwvZOkXaRVZuR2oZ3/Arxa5xo+UDCu/nX41F2PxP1sB7Bu7bFFOsMa7ERCW4U6XYToyfCo5JLBRIWP0zlOWLgMzAqnLfRg/D4vYAPLuL7I+RFbwUB+GZT37qgxYB0BT4MXLyV+ctwVw5e98WYNb3LVtaAqKkukBZSyL6L62Sl9Fx+91qlE4BYzB/omojAumWT1yLhdyZ/fDXYOvvj9y4gNGtXxQAMoNEI8/ewO+22axVd7PtuELyUZBWUgYWF2YmiHaMhSGLW978D3HfP5mku4f
     ufoLicenseKey: QVhlYk5BRC8vLy8vQUFBQUtDenV4SWgwemttcWxEOVBDY3N3UThhREdSTHVrRU04dmdYSjFGR0p0Ny9mczJVQlVBZFRnZm5WeUJOSVhyM1Y2WWtHNWl5eUQ4TTRJMFd3NUhaY2Z2aUtXazNyaHpQV212SEV3WWZWdnVobUpsVUxFWFFHbmtCZjVLM3Qyb1VFRjZEdTFqSHhjOUQ1eC9ZK05ldWdIODBudXc0ZXZQSUtZNGJuQlErUUFXUm11ZFBNU0k0b29lTjQ5aTdmbExSeU84NTVYVGVqUE03a3o2cEkvYjRPaXgxKytIdkw4WXZadW1ORXdJMkZJYU8rNHVNaWNBdUZNdTlRcEpDOTM1ZTVkNUU2UTBESWVPYmJqNWpDVWxqU2Q5MWpTdDkvay9kN1duazd2UHRyRnA2ZzhYSytwcG81K3ZlWkJvbkQyL25oRzE1VnBkYXQ3aFBGZTloc3B5NHZ4WFVzYW1pSzY1NFMxWnJXbXFuYVpncWc=
     delayedInitialization: 0
-    cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
-    maxSimultaneousObjectTargets: 1
+    cameraDeviceModeSetting: -3
+    maxSimultaneousImageTargets: 10
+    maxSimultaneousObjectTargets: 10
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
     mirrorVideoBackground: 0
@@ -44,9 +44,11 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+    - ReticleModel
     - VirtualCanvas_OT
     - VirtualCanvas
     dataSetsToActivate:
+    - ReticleModel
     - VirtualCanvas_OT
     - VirtualCanvas
   videoBackground:
