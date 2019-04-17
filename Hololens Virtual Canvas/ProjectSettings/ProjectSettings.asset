@@ -146,7 +146,7 @@ PlayerSettings:
       maximumSupportedHeadTracking: 1
     hololens:
       depthFormat: 1
-      depthBufferSharingEnabled: 0
+      depthBufferSharingEnabled: 1
     oculus:
       sharedDepthBuffer: 0
       dashSupport: 0
@@ -263,7 +263,9 @@ PlayerSettings:
     m_Enabled: 1
     m_Devices:
     - WindowsMR
-  m_BuildTargetEnableVuforiaSettings: []
+  m_BuildTargetEnableVuforiaSettings:
+  - m_BuildTarget: Metro
+    m_Enabled: 1
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
   m_TemplateCustomTags: {}
@@ -559,20 +561,20 @@ PlayerSettings:
     Metro: 2
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
-  scriptingRuntimeVersion: 0
+  scriptingRuntimeVersion: 1
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Hololens Virtual Canvas
-  metroPackageVersion: 
-  metroCertificatePath: 
+  metroPackageName: HololensVirtualCanvas
+  metroPackageVersion: 1.0.0.0
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 804f7d5205f2d501
   metroApplicationDescription: Hololens Virtual Canvas
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Hololens Virtual Canvas
   metroCommandLineArgsFile: 
   metroTileShowName: 0
   metroMediumTileShowName: 0
@@ -586,12 +588,30 @@ PlayerSettings:
   metroSplashScreenUseBackgroundColor: 0
   platformCapabilities:
     WindowsStoreApps:
+      AllJoyn: False
+      BlockedChatMessages: False
+      Bluetooth: False
+      Chat: False
+      CodeGeneration: False
+      EnterpriseAuthentication: False
       HumanInterfaceDevice: False
+      InputInjectionBrokered: False
       InternetClient: True
       InternetClientServer: False
+      Location: False
       Microphone: True
+      MusicLibrary: False
+      Objects3D: False
+      PhoneCall: False
+      PicturesLibrary: False
       PrivateNetworkClientServer: False
+      Proximity: False
+      RemovableStorage: False
+      SharedUserCertificates: False
       SpatialPerception: True
+      UserAccountInformation: False
+      VideosLibrary: False
+      VoipCall: False
       WebCam: True
   metroFTAName: 
   metroFTAFileTypes: []
@@ -646,7 +666,7 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: 
   projectName: 
   organizationId: 
