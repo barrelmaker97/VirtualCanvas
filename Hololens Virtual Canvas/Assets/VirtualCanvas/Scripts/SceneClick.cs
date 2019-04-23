@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using HoloToolkit.Unity.InputModule;
+﻿using HoloToolkit.Unity.InputModule;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using Vuforia;
 
 public class SceneClick : MonoBehaviour, IInputClickHandler {
 
