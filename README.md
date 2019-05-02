@@ -1,6 +1,6 @@
 # VirtualCanvas
 
-This repository, produced as part of a Senior Honors Capstone Research project conducted by Nolan Cooper ([@barrelmaker97](https://www.github.com/barrelmaker97)) and Ryan Lewis ([@LuckierDodge](https://www.github.com/LuckierDodge)), explored the creation of 3D trackable objects for use with Augmented Reality (AR) applications. The repository contains the following:
+This repository, produced as part of a Senior Honors Capstone Research project conducted by Nolan Cooper ([@barrelmaker97](https://www.github.com/barrelmaker97)) and Ryan Lewis ([@LuckierDodge](https://www.github.com/LuckierDodge)), explores the creation and use of 3D-printed trackable objects for use with Augmented Reality (AR) applications. The repository contains the following:
 
 1. A Unity3D application, located under `/HoloLens Virtual Canvas`, which demonstrates the ability to use 3D trackables to generate a "Virtual Canvas" in Augmented Reality. Versions of the Application targetted for Microsoft HoloLens and Android 8.1 'Oreo' are available on the `master` and `android` branches, respectively.
 1. The model files we 3D printed for our project, located under `/Meshes`.
