@@ -565,14 +565,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: HololensVirtualCanvas
+  metroPackageName: VirtualCanvas
   metroPackageVersion: 1.0.0.0
   metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
   metroCertificateNotAfter: 804f7d5205f2d501
-  metroApplicationDescription: Hololens Virtual Canvas
+  metroApplicationDescription: Virtual Canvas
   wsaImages: {}
   metroTileShortName: Hololens Virtual Canvas
   metroCommandLineArgsFile: 

@@ -311,7 +311,7 @@ MonoBehaviour:
   mShowBoundingBox: 1
   mBBoxMin: {x: 0, y: 0, z: 0}
   mBBoxMax: {x: 0.1, y: 0.1, z: 0.1}
-  mPreviewImage: {fileID: 2800000, guid: 5f6891d5a3d84bbdab2fb07fa5486c85, type: 3}
+  mPreviewImage: {fileID: 2800000, guid: 6368b59492ff498d9072d8b18a23c171, type: 3}
   mLength: 0.1
   mWidth: 0.1
   mHeight: 0.1
@@ -810,7 +810,7 @@ MonoBehaviour:
   mShowBoundingBox: 1
   mBBoxMin: {x: 0, y: 0, z: 0}
   mBBoxMax: {x: 0.1, y: 0.1, z: 0.1}
-  mPreviewImage: {fileID: 2800000, guid: 20cdb591bc3a48a0837e2d67b65c0326, type: 3}
+  mPreviewImage: {fileID: 2800000, guid: 264b988d68314fdc9dd477c955c6dfee, type: 3}
   mLength: 0.1
   mWidth: 0.1
   mHeight: 0.1
