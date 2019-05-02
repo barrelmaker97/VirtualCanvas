@@ -4,7 +4,8 @@ This repository, produced as part of a Senior Honors Capstone Research project c
 
 1. A Unity3D application, located under `/HoloLens Virtual Canvas`, which demonstrates the ability to use 3D trackables to generate a "Virtual Canvas" in Augmented Reality. Versions of the Application targetted for Microsoft HoloLens and Android 8.1 'Oreo' are available on the `master` and `android` branches, respectively.
 1. The model files we 3D printed for our project, located under `/Meshes`.
-1. Demo videos, located under `/Media`.
+
+A video demo of the Android version of tbe application can be found [here](https://youtu.be/Y6zBJy-AGNw).
 
 ## Notes for 3D printing
 The models we tested for this project are available in the `/Meshes` directory of this repository, as well as one model located on Thingiverse, a [Voronoi Klein Bottle](https://www.thingiverse.com/thing:145694). We experimented with various print properties and model characteristics to determine optimal traits for a 3D printed trackable object. The following were our general conclusions:
