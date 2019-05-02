@@ -5,7 +5,8 @@ This repository, produced as part of a Senior Honors Capstone Research project c
 1. A Unity3D application, located under `/HoloLens Virtual Canvas`, which demonstrates the ability to use 3D trackables to generate a "Virtual Canvas" in Augmented Reality. Versions of the Application targetted for Microsoft HoloLens and Android 8.1 'Oreo' are available on the `master` and `android` branches, respectively.
 1. The model files we 3D printed for our project, located under `/Meshes`.
 
-A video demo of the Android version of tbe application can be found [here](https://youtu.be/Y6zBJy-AGNw).
+A video demo of the Android version of the application can be found [here](https://youtu.be/Y6zBJy-AGNw).
+A video demo of the Hololens version of the application can be found [here](https://youtu.be/V_sKUVeodA8).
 
 ## Building and Deploying
 In order to run these projects, you will need both Unity and Visual Studio. If you've got those, then you're all set, just follow these steps:
