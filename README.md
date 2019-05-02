@@ -6,6 +6,7 @@ This repository, produced as part of a Senior Honors Capstone Research project c
 1. The model files we 3D printed for our project, located under `/Meshes`.
 
 A video demo of the Android version of the application can be found [here](https://youtu.be/Y6zBJy-AGNw).
+
 A video demo of the Hololens version of the application can be found [here](https://youtu.be/V_sKUVeodA8).
 
 ## Building and Deploying
